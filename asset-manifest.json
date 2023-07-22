@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/React_tesla_app/static/css/main.dfd56d2a.css",
-    "main.js": "/React_tesla_app/static/js/main.9f04e209.js",
+    "main.js": "/React_tesla_app/static/js/main.23124279.js",
     "static/media/model-s.jpg": "/React_tesla_app/static/media/model-s.837afaf129031621c18c.jpg",
     "static/media/tesla-vid.mp4": "/React_tesla_app/static/media/tesla-vid.96203742493f064491ec.mp4",
     "static/media/cybertruck.jpg": "/React_tesla_app/static/media/cybertruck.a4d226d842c8b5c48e91.jpg",
@@ -9,10 +9,10 @@
     "static/media/tesla-charger.jpg": "/React_tesla_app/static/media/tesla-charger.67b60276a51d416242e9.jpg",
     "index.html": "/React_tesla_app/index.html",
     "main.dfd56d2a.css.map": "/React_tesla_app/static/css/main.dfd56d2a.css.map",
-    "main.9f04e209.js.map": "/React_tesla_app/static/js/main.9f04e209.js.map"
+    "main.23124279.js.map": "/React_tesla_app/static/js/main.23124279.js.map"
   },
   "entrypoints": [
     "static/css/main.dfd56d2a.css",
-    "static/js/main.9f04e209.js"
+    "static/js/main.23124279.js"
   ]
 }
