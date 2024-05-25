@@ -13,8 +13,10 @@ import CartPage from './pages/CartPage';
 import { Toaster } from 'react-hot-toast';
 
 const router = createBrowserRouter([
+
+  
   {
-    path: '/',
+    path: '/React_tesla_app',
     element: (
       <App>
         <HomePage />

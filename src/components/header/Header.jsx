@@ -5,12 +5,13 @@ import { useRecoilValue } from 'recoil';
 import { cartState } from '../../global-state/cartItems';
 
 export const navElements = [
-  { label: 'TESLA', route: '', style: { marginRight: 'auto' } },
+  { label: 'TESLA', route: 'React_tesla_app', style: { marginRight: 'auto' } },
   { label: 'Model S', route: 'model_s' },
   { label: 'Model X', route: 'model_x' },
   { label: 'Cybertruck', route: 'cybertruck' },
   { label: 'Shop', route: 'shop' },
   { label: <ShoppingCartIcon />, route: 'cart', style: { marginLeft: 'auto' } },
+  // { label: 'Signup', route: 'sign'},
   { label: 'Menu', route: null },
 ];
 
